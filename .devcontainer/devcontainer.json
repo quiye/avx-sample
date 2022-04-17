@@ -1,0 +1,10 @@
+{
+	"name": "C++",
+	"image": "gcc:11",
+	"settings": {
+		"terminal.integrated.shell.linux": "/bin/bash"
+	},
+	"extensions": [
+		"ms-vscode.cpptools"
+	],
+}
